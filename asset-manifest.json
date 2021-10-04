@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/TypeScript-Shopping-Cart/static/js/main.d0380452.chunk.js",
+    "main.js.map": "/TypeScript-Shopping-Cart/static/js/main.d0380452.chunk.js.map",
+    "runtime-main.js": "/TypeScript-Shopping-Cart/static/js/runtime-main.697b59c6.js",
+    "runtime-main.js.map": "/TypeScript-Shopping-Cart/static/js/runtime-main.697b59c6.js.map",
+    "static/js/2.c3ab5d61.chunk.js": "/TypeScript-Shopping-Cart/static/js/2.c3ab5d61.chunk.js",
+    "static/js/2.c3ab5d61.chunk.js.map": "/TypeScript-Shopping-Cart/static/js/2.c3ab5d61.chunk.js.map",
+    "index.html": "/TypeScript-Shopping-Cart/index.html",
+    "static/js/2.c3ab5d61.chunk.js.LICENSE.txt": "/TypeScript-Shopping-Cart/static/js/2.c3ab5d61.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.697b59c6.js",
+    "static/js/2.c3ab5d61.chunk.js",
+    "static/js/main.d0380452.chunk.js"
+  ]
+}
